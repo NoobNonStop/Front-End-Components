@@ -1,0 +1,32 @@
+body {
+    width: 50%;
+    position: relative;
+    left: 30%;
+    top: 30%;
+    
+}
+img {
+    height: auto;
+    width: 35%;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
+    margin-right: 2%;
+    float: left;
+
+}
+.xyz img {
+    width: 2%;
+    border-radius: 50%;
+}
+
+h1, p {
+    margin-left: 2%;
+}
+h1 {
+    font-size: 24px;
+
+}
+p {
+    font-size: 14px;
+}
+  
